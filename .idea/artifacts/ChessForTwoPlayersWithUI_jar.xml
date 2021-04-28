@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChessForTwoPlayersWithUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChessForTwoPlayersWithUI_jar</output-path>
+    <root id="archive" name="ChessForTwoPlayersWithUI.jar">
+      <element id="module-output" name="ChessForTwoPlayersWithUI" />
+    </root>
+  </artifact>
+</component>

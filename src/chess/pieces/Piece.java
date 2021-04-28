@@ -7,7 +7,7 @@ public abstract class Piece extends JButton {
 
     private int x;
     private int y;
-    protected boolean isBlack;
+    public boolean isBlack;
 
     public Piece(int x, int y, boolean isBlack) {
         this.x = x;

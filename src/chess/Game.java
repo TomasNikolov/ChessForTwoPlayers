@@ -1,5 +1,6 @@
-package chess.pieces;
+package chess;
 
+import chess.pieces.*;
 import chess.ui.MousePressedListener;
 import chess.ui.UI;
 
